@@ -4,7 +4,7 @@
 <h2>1.Intro</h2>
 <p><b>- 홈페이지에 첫 접속한 사진이다. 기본적으로 회원가입, ID/PW찾기, 로그인, 최근게시물 보여주기, 메뉴 바 기능을 포함한다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230772700-8e6e91d9-cc05-4a13-b53a-b28b5c030c45.png"/>
-
+<hr>
 <p><b>- DB에 아이디와 비밀번호가 존재하지 않거나, 입력한 아이디와 비밀번호가 일치하지 않으면 경고창을 띄워준다.</b></p>
 <table>
   <tr>
@@ -15,7 +15,7 @@
 
 <p><b>- 로그인에 성공하게되면 로그인폼의 데이터가 바뀐다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230772984-11304926-9425-4ef8-9af4-2f8e2fc53b51.png"/>
-
+<hr>
 <br>
 <h2>2.Sign Up</h2>
 <p><b>- 다음은 회원가입창이다.</b></p>
@@ -28,7 +28,7 @@
     <td><img width="80%" src="https://user-images.githubusercontent.com/81612834/230773131-786cb38d-4f66-4c9c-86f2-49f2b747e46c.png"/></td>
   <tr>
 </table>
-
+<hr>
 <br>
 <h2>3.ID/PW 찾기</h2>
 <p><b>- 아이디와 비밀번호찾기 기능은 회원가입시 입력하였던 정보들을 이용해 아이디와 비밀번호를 찾아주도록 하였다.</b></p>
