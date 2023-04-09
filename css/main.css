@@ -1,0 +1,10 @@
+#free_time{border: 10px ridge rgb(243, 19, 105);
+            padding: 2px; width: 600px; border-collapse: collapse;}
+#main_thead{background-color: white; color:black;}
+#main_th{border-top: 1px solid gray;}
+#main_td,#main_th{padding: 5px; text-align: center;border-bottom: 1px solid gray;}
+#main_td{border-bottom: 1px solid gray; padding: 2px;}
+#sub_a:hover{border-bottom: 1px solid black;}
+
+#main_span{color: rgb(25, 15, 165); font-size: 20px;}
+#main_hr{border-top: 3px dashed gray;}

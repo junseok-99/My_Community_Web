@@ -1,0 +1,9 @@
+#msg_span{ text-align: center; border-bottom: 1px solid red;}
+#msg_div{margin:0 auto;}
+#msg_div li{list-style-type: none; padding: 5px;}
+#msg_box_bt{float: right;}
+#view_hr_top{border-top:3px solid black; }
+#view_hr{border-top: 2px dashed black; }
+#view_sub:hover{border-bottom: 1px solid black;}
+#view_div{margin-left: 400px; margin-right: 400px; border:2px solid black; width: 550px; height: 330px;padding: 30px;}
+#view_div li{list-style-type: none; padding: 5px; }

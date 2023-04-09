@@ -1,0 +1,20 @@
+#board_table{margin: auto;}
+#board_write_bt{float: right;}
+#free_span{text-align: center;}
+#free_div li{list-style-type: none; padding: 5px; 
+                }
+#free_div{margin-left: 400px; margin-right: 400px; border:2px solid black; width: 550px; height: 330px;padding: 30px;}
+#free_bt{float: right;}
+#free_a:hover{border-bottom: 1px solid black;}
+#fr_td{padding: 5px; text-align: left;}
+
+#view_main_div{border: 2px solid gray; padding: 10px; height: auto;}
+#com_num{text-align: center;}
+#com_day{float: right;}
+#com_id{font-size: 17px;}
+#com_comt{font-size: 13px;}
+#com_del{color: red;}
+#com_div{border-bottom: 1px solid gray; padding: 5px;}
+
+#search_div{text-align: center; height: 50px;}
+#msg_box_bt{float: right; }

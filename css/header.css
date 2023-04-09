@@ -1,0 +1,56 @@
+#head{text-align: center;}
+body{margin:60px; }
+#login_form{border: 2px solid black;
+            width: 350px; 
+}
+#login_form li{list-style-type: none;padding: 5px;}
+#login_span{text-align: center;}
+#log_form{border: 2px solid black;
+    text-align: center;
+    width: 300px; 
+    
+}
+#id{width: 100px;
+}
+#menu_bar { height: 48px; background-color: #158b8f; font-size: 16px; }
+#menu_bar ul { width: 1100px; margin: 0 auto; padding: 14px 0 0 40px; }
+#menu_bar li { display: inline; margin-left: 90px; color: white; }
+#home_bar { color: white; font-weight: bold;}
+#home_bar:hover{color: rgb(240, 17, 17);}
+
+#join_div{border: 2px solid black; margin-left: 300px; margin-right: 230px;}
+#join_div li{list-style-type: none; padding: 10px;}
+#join_msg{text-align: left;}
+#join_h1{text-align: center;}
+#phn1{width: 60px;}
+#phn2{width: 50px;}
+#phn3{width: 50px;}
+
+a{text-decoration: none;}
+a:link{color: black;}
+a:visited{color: black;}
+
+#mypage_div{ border: 2px solid black; margin-left: 400px; margin-right: 400px; }
+#mypage_div ul{list-style-type: none;}
+#mypage_div li{padding: 5px;}
+
+#resign_div{text-align: center; border: 2px solid black; margin-left: 300px; margin-right: 300px;}
+
+#mem_table{margin: auto;
+            border-collapse: collapse;
+            }
+#search_div{margin-left: 300px; margin-right: 300px;padding: 10px; height: 200px; width: 800px;}
+
+td,th{padding: 5px; text-align: center;}
+thead{background-color: black; color:white;}
+td{border-bottom: 1px solid gray;}
+
+#msg_table{margin: auto;}
+
+#footer_span{text-align: center;}
+
+#level_div{border: 2px solid black; margin-left: 400px; margin-right: 400px; height: 150px;}
+#level_div ul{list-style-type: none;}
+#level_div li{padding: 5px;}
+
+#main_img_bar{ position: relative; bottom: 200px; left: 650px;}
