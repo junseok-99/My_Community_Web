@@ -8,8 +8,8 @@ PHP를 사용해 만든 나만의 커뮤니티 사이트 입니다.
 <p><b>- DB에 아이디와 비밀번호가 존재하지 않거나, 입력한 아이디와 비밀번호가 일치하지 않으면 경고창을 띄워준다.</b></p>
 <table>
   <tr>
-    <td><img width="80%" src="https://user-images.githubusercontent.com/81612834/230772772-4aeff3e1-ce91-40a3-a022-c4eec3f6c78d.png"/></td>
     <td><img width="80%" src="https://user-images.githubusercontent.com/81612834/230772773-a37702ca-96ba-44bb-8e81-694abf80783e.png"/></td>
+    <td><img width="80%" src="https://user-images.githubusercontent.com/81612834/230772772-4aeff3e1-ce91-40a3-a022-c4eec3f6c78d.png"/></td>
   <tr>
 </table>
 
