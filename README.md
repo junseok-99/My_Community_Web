@@ -38,3 +38,36 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773379-5afc6089-5ee5-435b-a95f-16d5da8ebeb5.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773311-a8a53694-72d2-4465-a4cb-9f77ed92913e.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773312-4bcbf90b-04df-4394-a08d-2854efbf7b93.png"/>
+
+<h3>3-2.PW 찾기</h3>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773425-5343138e-b236-46c9-8973-401a84138c3d.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773426-315eed62-bb80-44f5-886f-9adb5c594d0d.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773423-4cd0a0e1-e6ac-4ae5-b403-25839eb37f71.png"/>
+
+<br>
+<h2>4.My Page</h2>
+<p><b>- 로그인 후 마이페이지에 들어가면 회원가입시 입력했던 정보들을 확인할 수 있고, 비밀번호, 질문, 답은 수정이 가능하다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773502-0c3e478a-3cd2-45fd-8629-78beae7874b4.png"/>
+
+<br>
+<h2>5.쪽지함</h2>
+<p><b>-  나의 쪽지함에 접속하면 수신, 송신 쪽지함을 확인할 수 있고 쪽지함에서 제목을 클릭하게 되면 쪽지의 내용을 확인할 수 있다.</b></p>
+<p><b>- 쪽지함 내의 쪽지가 일정 개수를 넘으면 다음페이지에 표시하도록 하였다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773600-bba8f309-d638-474b-b898-bf6b89ea9de8.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773598-99273b32-3af6-46ce-a69c-b1ebc306108d.png"/>
+<p><b>- 삭제도 가능하다.</b></p>
+<p><b>- 쪽지를 보낼 때 받는 사람의 아이디가 db에 존재하지 않으면 보낼 수 없게된다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773654-aa1e714b-3de4-45c3-98c3-818ef30216c4.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773652-22d36fa4-763a-4242-8def-4db7be8a5200.png"/>
+
+<br>
+<h2>6.회원관리</h2>
+<p><b>- 관리자로 로그인하게 되면 회원관리를 할 수 있다. 포인트, 등급을 수정할 수 있고, 아이디를 정지시킬 수 있다.</b></p>
+<p><b>- 회원의 수가 일정개수를 넘으면 다음페이지에 표시된다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773747-9dadf563-ff2a-4d9f-93d4-39c2709a0aaf.png"/>
+
+
+
+
+
+
