@@ -76,14 +76,13 @@
 <p><b>- 찾고 싶은 제목을 검색하여 찾을 수 있다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773971-b30e5054-95be-4822-8b3e-ae81889d63f2.png"/>
 <p><b>- 게시글에 접속하게 되면 조회수가 올라간다.</b></p>
-<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 <p><b>- 자유게시판에서 글을 선택하여 내용을 확인할 수 있고, 로그인 아이디와 작성아이디가 같으면 글을 수정하거나 삭제할 수 있다.</b></p>
-<p><b>- 게시글에 접속하게 되면 조회수가 올라간다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 <p><b>- 모든 회원들은 게시글에 댓글을 달 수 있다. 댓글이 일정개수를 초과하면 다음페이지에 표시된다. 마음에 들지 않은 댓글은 삭제가 가능하다. 단 로그인 아이디와 작성아이디가 다르면 삭제는 불가능하다.</b></p>
+<p><b>- 관리자는 모든 댓글과 게시글들을 삭제할 수 있다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774021-d177ffbd-6399-4633-92b7-0c8cf48993fb.png"/> 
-
-
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774026-008747a9-af2f-488a-a24a-63b0cffa67b5.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774025-d5ace787-88e3-4955-a351-c1e1ab54ddd2.png"/>
 
 
 
