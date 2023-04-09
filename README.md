@@ -35,6 +35,6 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773230-962f1aa8-d8c3-4202-a457-0064ebdb7c4c.png"/>
 
 <h3>3-1.ID 찾기</h3>
-<img width="80%" src="user-images.githubusercontent.com/81612834/230773313-5b592a1f-bdce-4250-a18c-30cb98c6144d.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773379-5afc6089-5ee5-435b-a95f-16d5da8ebeb5.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773311-a8a53694-72d2-4465-a4cb-9f77ed92913e.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773312-4bcbf90b-04df-4394-a08d-2854efbf7b93.png"/>
