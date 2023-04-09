@@ -13,5 +13,17 @@ PHP를 사용해 만든 나만의 커뮤니티 사이트 입니다.
   <tr>
 </table>
 
+<p><b>- 로그인에 성공하게되면 로그인폼의 데이터가 바뀐다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230772984-11304926-9425-4ef8-9af4-2f8e2fc53b51.png"/>
+
+<br>
+<h2>1.Sign Up</h1>
+<p><b>- 다음은 회원가입창이다.</b></p>
+<p><b>- 필수항목을 입력하지 않으면 회원가입 진행이 되지 않는다.</b></p>
+<p><b>- 추가로 Javascript를 사용하여 실시간으로 비밀번호란과 비밀번호확인란의 일치하는지 알려준다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230772700-8e6e91d9-cc05-4a13-b53a-b28b5c030c45.png"/>
+
+
+
 
 
