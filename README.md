@@ -80,7 +80,6 @@
 <p><b>- 게시글을 작성하거나 댓글을 작성하면 일정 포인트를 얻는다. </b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774021-d177ffbd-6399-4633-92b7-0c8cf48993fb.png"/> 
 <p><b>- 자유게시판에서 글을 선택하여 내용을 확인할 수 있고, 로그인 아이디와 작성아이디가 같으면 글을 수정하거나 삭제할 수 있다.</b></p>
-<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 <p><b>- 게시글에 접속하게 되면 조회수가 올라간다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 
