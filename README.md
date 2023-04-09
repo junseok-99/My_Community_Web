@@ -103,8 +103,8 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774625-f07f30f9-d113-4126-a6db-3484b6db499a.png"/>
 
 <p><b>- 신고가 접수되면 관리자는 신고함에서 답변을 달아줄 수 있다. 답변이 달리면 처리여부의 상태가 바뀌고, 회원들은 관리자가 작성한 답변을 확인할 수 있다.</b></p>
-<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774700-0b84e7e4-155d-458a-816e-29f013bfc954.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774701-7128c2f2-e009-4f59-b768-b465a74ce4ce.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774700-0b84e7e4-155d-458a-816e-29f013bfc954.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774702-fc547e01-3640-4dda-8adc-8b1d7085ab04.png"/>
 
 
