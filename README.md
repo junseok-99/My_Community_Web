@@ -66,6 +66,24 @@
 <p><b>- 회원의 수가 일정개수를 넘으면 다음페이지에 표시된다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773747-9dadf563-ff2a-4d9f-93d4-39c2709a0aaf.png"/>
 
+<br>
+<h2>7.자유게시판</h2>
+<p><b>- 자유게시판에서 회원들은 글을 작성할 수 있고, 확인할 수 있다.</b></p>
+<p><b>- 번호, 제목, 글쓴이, 등급, 작성시간, 조회 수, 댓글 수를 확인 할 수 있다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773896-ed6b3a5e-0bf0-4a12-9360-7b04a8536d2a.png"/>
+<p><b>- 내 글보기, 등록순, 조회순 중에 원하는 순서로 정렬 할 수 있다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773939-116c42bc-c26e-47d7-8f08-2e39e1012b29.png"/>
+<p><b>- 찾고 싶은 제목을 검색하여 찾을 수 있다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230773971-b30e5054-95be-4822-8b3e-ae81889d63f2.png"/>
+<p><b>- 게시글에 접속하게 되면 조회수가 올라간다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
+<p><b>- 게시글을 작성하거나 댓글을 작성하면 일정 포인트를 얻는다. </b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774021-d177ffbd-6399-4633-92b7-0c8cf48993fb.png"/> 
+
+
+
+
+
 
 
 
