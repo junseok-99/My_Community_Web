@@ -56,7 +56,7 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773600-bba8f309-d638-474b-b898-bf6b89ea9de8.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773598-99273b32-3af6-46ce-a69c-b1ebc306108d.png"/>
 <p><b>- 삭제도 가능하다.</b></p>
-<p><b>- 쪽지를 보낼 때 받는 사람의 아이디가 db에 존재하지 않으면 보낼 수 없게된다.</b></p>
+<p><b>- 쪽지를 보낼 때 받는 사람의 아이디가 db에 존재하지 않으면 보낼 수 없게 된다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773654-aa1e714b-3de4-45c3-98c3-818ef30216c4.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773652-22d36fa4-763a-4242-8def-4db7be8a5200.png"/>
 
@@ -79,10 +79,12 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 <p><b>- 게시글을 작성하거나 댓글을 작성하면 일정 포인트를 얻는다. </b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774021-d177ffbd-6399-4633-92b7-0c8cf48993fb.png"/> 
+<p><b>- 자유게시판에서 글을 선택하여 내용을 확인할 수 있고, 로그인 아이디와 작성아이디가 같으면 글을 수정하거나 삭제할 수 있다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
+<p><b>- 게시글에 접속하게 되면 조회수가 올라간다.</b></p>
+<img width="80%" src="https://user-images.githubusercontent.com/81612834/230774027-c09da406-619f-45b6-840f-58195da3823d.png"/>
 
-
-
-
+모든 회원들은 게시글에 댓글을 달 수 있다. 댓글이 일정개수를 초과하면 다음페이지에 표시된다. 마음에 들지 않은 댓글은 삭제가 가능하다. 단 로그인 아이디와 작성아이디가 다르면 삭제는 불가능하다.
 
 
 
