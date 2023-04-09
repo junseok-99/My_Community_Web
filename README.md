@@ -1,10 +1,10 @@
 # My_Community_Web
 <p>PHP를 사용해 만든 나만의 커뮤니티 사이트 입니다.</p>
-
+<br>
 <h2>1.Intro</h2>
 <p><b>- 홈페이지에 첫 접속한 사진이다. 기본적으로 회원가입, ID/PW찾기, 로그인, 최근게시물 보여주기, 메뉴 바 기능을 포함한다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230772700-8e6e91d9-cc05-4a13-b53a-b28b5c030c45.png"/>
-<hr>
+
 <p><b>- DB에 아이디와 비밀번호가 존재하지 않거나, 입력한 아이디와 비밀번호가 일치하지 않으면 경고창을 띄워준다.</b></p>
 <table>
   <tr>
@@ -15,6 +15,7 @@
 
 <p><b>- 로그인에 성공하게되면 로그인폼의 데이터가 바뀐다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230772984-11304926-9425-4ef8-9af4-2f8e2fc53b51.png"/>
+<br>
 <hr>
 <br>
 <h2>2.Sign Up</h2>
@@ -28,6 +29,7 @@
     <td><img width="80%" src="https://user-images.githubusercontent.com/81612834/230773131-786cb38d-4f66-4c9c-86f2-49f2b747e46c.png"/></td>
   <tr>
 </table>
+<br>
 <hr>
 <br>
 <h2>3.ID/PW 찾기</h2>
@@ -38,17 +40,23 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773379-5afc6089-5ee5-435b-a95f-16d5da8ebeb5.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773311-a8a53694-72d2-4465-a4cb-9f77ed92913e.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773312-4bcbf90b-04df-4394-a08d-2854efbf7b93.png"/>
-
+<br>
+<hr>
+<br>
 <h3>3-2.PW 찾기</h3>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773425-5343138e-b236-46c9-8973-401a84138c3d.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773426-315eed62-bb80-44f5-886f-9adb5c594d0d.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773423-4cd0a0e1-e6ac-4ae5-b403-25839eb37f71.png"/>
 
 <br>
+<hr>
+<br>
 <h2>4.My Page</h2>
 <p><b>- 로그인 후 마이페이지에 들어가면 회원가입시 입력했던 정보들을 확인할 수 있고, 비밀번호, 질문, 답은 수정이 가능하다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773502-0c3e478a-3cd2-45fd-8629-78beae7874b4.png"/>
 
+<br>
+<hr>
 <br>
 <h2>5.쪽지함</h2>
 <p><b>-  나의 쪽지함에 접속하면 수신, 송신 쪽지함을 확인할 수 있고 쪽지함에서 제목을 클릭하게 되면 쪽지의 내용을 확인할 수 있다.</b></p>
@@ -61,11 +69,15 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773652-22d36fa4-763a-4242-8def-4db7be8a5200.png"/>
 
 <br>
+<hr>
+<br>
 <h2>6.회원관리</h2>
 <p><b>- 관리자로 로그인하게 되면 회원관리를 할 수 있다. 포인트, 등급을 수정할 수 있고, 아이디를 정지시킬 수 있다.</b></p>
 <p><b>- 회원의 수가 일정개수를 넘으면 다음페이지에 표시된다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230773747-9dadf563-ff2a-4d9f-93d4-39c2709a0aaf.png"/>
 
+<br>
+<hr>
 <br>
 <h2>7.자유게시판</h2>
 <p><b>- 자유게시판에서 회원들은 글을 작성할 수 있고, 확인할 수 있다.</b></p>
@@ -85,16 +97,22 @@
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774025-d5ace787-88e3-4955-a351-c1e1ab54ddd2.png"/>
 
 <br>
+<hr>
+<br>
 <h2>8.회원탈퇴</h2>
 <p><b>- 관리자를 제외한 모든 회원들은 회원탈퇴를 할 수 있다. 탈퇴한 이유는 DB에서 확인이 가능하다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774504-e2e5aa59-a395-41f1-9bb1-a94a901b08ee.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774501-19b03950-4e5a-4f92-8bc6-203d7042fba9.png"/>
 
 <br>
+<hr>
+<br>
 <h2>9.등업하기</h2>
 <p><b>- 관리자를 제외한 모든 회원들은 일정한 포인트를 획득하면 다음 등급으로 등업할 수 있다.</b></p>
 <img width="80%" src="https://user-images.githubusercontent.com/81612834/230774559-d79412a0-553d-4879-997b-a88dde3ee1d0.png"/>
 
+<br>
+<hr>
 <br>
 <h2>10.신고하기 및 신고함</h2>
 <p><b>- 모든 회원들은 회원들을 신고할 수 있다. DB에 존재하지 않는 아이디는 신고할 수 없다. 신고가 완료되면 신고함에서 확인이 가능하다.</b></p>
